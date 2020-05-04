@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<libraries>
+  <library>
+    <location>ext-lib/vendor/guzzlehttp</location>
+    <name>guzzle</name>
+    <version>6.3.3</version>
+    <license>MIT</license>
+    <licenseversion></licenseversion>
+  </library>
+</libraries>
